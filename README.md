@@ -1,4 +1,7 @@
 # Desafio 1- Materia: Programação de Computadores.
+Integrantes do projeto
+- **Suelen Marinho:** RGM: 31923160
+- **Lelton Borges:** RGM: 27933091
 # Introdução à Lógica e Programação com C++
   A lógica de programação é a base para o desenvolvimento de qualquer software, sendo essencial para a resolução estruturada de problemas computacionais.
   Em C++, utilizamos essa lógica para criar algoritmos eficientes, definir fluxos de execução e manipular dados de forma estruturada. Com o uso de variáveis,
@@ -43,9 +46,8 @@ Criada como uma extensão do C, ela suporta programação procedural, orientada 
 # IDE utilizada
 [Code::Blocks](https://www.codeblocks.org/downloads/binaries/)
 
-# Integrantes do Projeto
+# Referencia usada para esse projeto
+Livros:Introdução à Programação em C de Rodrigo L. S. silva.
 
-- **Suelen Marinho:** RGM: 31923160
-- **Lelton Borges:** RGM: 27933091
-
-
+# Projeto feito no Google Colab
+[Criar o primeiro projeto em C++](https://colab.research.google.com/drive/1EZIrX12N9jOtQ9pypGDmQdv89kYahz7z#scrollTo=3D94Xm6k42Lq)
