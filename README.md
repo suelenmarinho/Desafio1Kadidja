@@ -47,7 +47,11 @@ Criada como uma extensão do C, ela suporta programação procedural, orientada 
 [Code::Blocks](https://www.codeblocks.org/downloads/binaries/)
 
 # Referencia usada para esse projeto
-Livros:Introdução à Programação em C de Rodrigo L. S. silva.
+Livros:
+
+Introdução à Programação em C de Rodrigo L. S. silva.
+
+C++ do ZERO programação para iniciantes de Raphael R.
 
 # Projeto feito no Google Colab
 [Criar o primeiro projeto em C++](https://colab.research.google.com/drive/1EZIrX12N9jOtQ9pypGDmQdv89kYahz7z#scrollTo=3D94Xm6k42Lq)
