@@ -54,4 +54,5 @@ Introdução à Programação em C de Rodrigo L. S. silva.
 C++ do ZERO programação para iniciantes de Raphael R.
 
 # Projeto feito no Google Colab
+<a href="https://colab.research.google.com/drive/1EZIrX12N9jOtQ9pypGDmQdv89kYahz7z#scrollTo=3D94Xm6k42Lq" target="_blank">Criar o primeiro projeto em C++</a>
 [Criar o primeiro projeto em C++](https://colab.research.google.com/drive/1EZIrX12N9jOtQ9pypGDmQdv89kYahz7z#scrollTo=3D94Xm6k42Lq)
