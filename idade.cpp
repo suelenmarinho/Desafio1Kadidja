@@ -1,21 +1,22 @@
-#include <cstdio>
+#include <stdio.h>
 
 int main() {
-    int idade = -1;
+    int idade;
 
-    while (idade < 0) {
-        printf("Digite sua idade (numero positivo): ");
+    while (1) {
+        printf("Digite sua idade (ou -1 para sair): ");
         scanf("%d", &idade);
 
-        if (idade < 0) {
+        if (idade == -1) {
+            printf("Encerrando o programa...\n");
+            break;
+        } else if (idade < 0) {
             printf("Idade invalida! Tente novamente.\n");
+        } else if (idade >= 18) {
+            printf("Maior de idade.\n");
+        } else {
+            printf("Menor de idade.\n");
         }
-    }
-
-    if (idade >= 18) {
-        printf("Maior de idade.\n");
-    } else {
-        printf("Menor de idade.\n");
     }
 
     return 0;
